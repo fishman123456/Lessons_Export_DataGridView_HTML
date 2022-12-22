@@ -8,6 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 
 using System.IO;
+using System.Text.RegularExpressions;
 
 namespace Export_DataGridView_HTML_CS
 {
@@ -59,7 +60,44 @@ namespace Export_DataGridView_HTML_CS
             //Table end.
             html += "</table>";
 
-            File.WriteAllText(@"first.html", html); 
+            File.WriteAllText(@"first.html", html);
+        }      
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void первая_Click(object sender, EventArgs e)
+        {
+            string[] dict = File.ReadAllLines("dict.txt", Encoding.GetEncoding(1251)); // Открываем словарь
+            var text = File.ReadAllLines("text.txt", Encoding.GetEncoding(1251)); // Открываем текст
+            const string boldItalic = "<b><i>{0}</i></b>";
+
+            // Создаем и пишем в файл
+            using (var writer = new StreamWriter("output.html", false, Encoding.GetEncoding(1251)))
+            {
+                writer.Write("<!DOCTYPE HTML><html><head><title>Text</title></head><body>");
+                for (int index = 0; index < text.Length; index++)
+                {
+                    string str = text[index];
+                    foreach (string word in dict)
+                    {
+                        string pattern = String.Format(@"\b{0}\b", word);
+                        Regex regex = new Regex(pattern, RegexOptions.Compiled);
+                        str = regex.Replace(str, match => String.Format(boldItalic, match.Value));
+                    }
+
+                    writer.Write(str);
+                }
+
+
+                writer.WriteLine("</body></html>");
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+      
         }
     }
 }

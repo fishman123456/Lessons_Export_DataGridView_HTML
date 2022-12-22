@@ -16,3 +16,14 @@ C:\Users\Fishman.DB.CORP\Downloads\Export_DataGridView_HTML\Export_DataGridView_
 C:\Users\Fishman.DB.CORP\Downloads\Export_DataGridView_HTML\Export_DataGridView_HTML_CS\obj\x86\Debug\Export_DataGridView_HTML_CS.csproj.CoreCompileInputs.cache
 C:\Users\Fishman.DB.CORP\Downloads\Export_DataGridView_HTML\Export_DataGridView_HTML_CS\obj\x86\Debug\Export_DataGridView_HTML_CS.exe
 C:\Users\Fishman.DB.CORP\Downloads\Export_DataGridView_HTML\Export_DataGridView_HTML_CS\obj\x86\Debug\Export_DataGridView_HTML_CS.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Lessons_Export_DataGridView_HTML\Export_DataGridView_HTML_CS\bin\Debug\Export_DataGridView_HTML_CS.exe.config
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Lessons_Export_DataGridView_HTML\Export_DataGridView_HTML_CS\bin\Debug\Export_DataGridView_HTML_CS.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Lessons_Export_DataGridView_HTML\Export_DataGridView_HTML_CS\bin\Debug\Export_DataGridView_HTML_CS.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Lessons_Export_DataGridView_HTML\Export_DataGridView_HTML_CS\obj\x86\Debug\Export_DataGridView_HTML_CS.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Lessons_Export_DataGridView_HTML\Export_DataGridView_HTML_CS\obj\x86\Debug\Export_DataGridView_HTML_CS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Lessons_Export_DataGridView_HTML\Export_DataGridView_HTML_CS\obj\x86\Debug\Export_DataGridView_HTML_CS.Form1.resources
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Lessons_Export_DataGridView_HTML\Export_DataGridView_HTML_CS\obj\x86\Debug\Export_DataGridView_HTML_CS.Properties.Resources.resources
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Lessons_Export_DataGridView_HTML\Export_DataGridView_HTML_CS\obj\x86\Debug\Export_DataGridView_HTML_CS.csproj.GenerateResource.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Lessons_Export_DataGridView_HTML\Export_DataGridView_HTML_CS\obj\x86\Debug\Export_DataGridView_HTML_CS.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Lessons_Export_DataGridView_HTML\Export_DataGridView_HTML_CS\obj\x86\Debug\Export_DataGridView_HTML_CS.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\Lessons_Export_DataGridView_HTML\Export_DataGridView_HTML_CS\obj\x86\Debug\Export_DataGridView_HTML_CS.pdb
