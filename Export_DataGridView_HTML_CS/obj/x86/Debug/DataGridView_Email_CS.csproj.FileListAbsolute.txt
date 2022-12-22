@@ -1,0 +1,7 @@
+E:\Dropbox\Samples\Windows\DataGridView_Email\DataGridView_Email_CS\bin\Debug\DataGridView_Email_CS.exe
+E:\Dropbox\Samples\Windows\DataGridView_Email\DataGridView_Email_CS\bin\Debug\DataGridView_Email_CS.pdb
+E:\Dropbox\Samples\Windows\DataGridView_Email\DataGridView_Email_CS\obj\x86\Debug\DataGridView_Email_CS.Form1.resources
+E:\Dropbox\Samples\Windows\DataGridView_Email\DataGridView_Email_CS\obj\x86\Debug\DataGridView_Email_CS.Properties.Resources.resources
+E:\Dropbox\Samples\Windows\DataGridView_Email\DataGridView_Email_CS\obj\x86\Debug\DataGridView_Email_CS.csproj.GenerateResource.Cache
+E:\Dropbox\Samples\Windows\DataGridView_Email\DataGridView_Email_CS\obj\x86\Debug\DataGridView_Email_CS.exe
+E:\Dropbox\Samples\Windows\DataGridView_Email\DataGridView_Email_CS\obj\x86\Debug\DataGridView_Email_CS.pdb

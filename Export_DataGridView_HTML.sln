@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Export_DataGridView_HTML_CS", "Export_DataGridView_HTML_CS\Export_DataGridView_HTML_CS.csproj", "{70013B11-4F00-44A1-BB00-8DA4BD4B6359}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Export_DataGridView_HTML_VB", "Export_DataGridView_HTML_VB\Export_DataGridView_HTML_VB.vbproj", "{3645071F-F80C-4B5E-B9F7-32A585B9E69D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70013B11-4F00-44A1-BB00-8DA4BD4B6359}.Debug|x86.ActiveCfg = Debug|x86
+		{70013B11-4F00-44A1-BB00-8DA4BD4B6359}.Debug|x86.Build.0 = Debug|x86
+		{70013B11-4F00-44A1-BB00-8DA4BD4B6359}.Release|x86.ActiveCfg = Release|x86
+		{70013B11-4F00-44A1-BB00-8DA4BD4B6359}.Release|x86.Build.0 = Release|x86
+		{3645071F-F80C-4B5E-B9F7-32A585B9E69D}.Debug|x86.ActiveCfg = Debug|x86
+		{3645071F-F80C-4B5E-B9F7-32A585B9E69D}.Debug|x86.Build.0 = Debug|x86
+		{3645071F-F80C-4B5E-B9F7-32A585B9E69D}.Release|x86.ActiveCfg = Release|x86
+		{3645071F-F80C-4B5E-B9F7-32A585B9E69D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
